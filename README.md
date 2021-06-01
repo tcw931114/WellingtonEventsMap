@@ -1,1 +1,1 @@
-# hex-cartogram
+# WellingtonEventsMap
